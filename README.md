@@ -99,10 +99,16 @@ plt.show()
 
 **Output**
 
+<img width="973" height="476" alt="image" src="https://github.com/user-attachments/assets/85ff28c0-cf9c-4636-aa43-312e3c5cc3e0" />
 
+<img width="935" height="500" alt="image" src="https://github.com/user-attachments/assets/d787ec2c-f4d9-41d5-a3d9-b21e707f8309" />
 
+<img width="706" height="479" alt="image" src="https://github.com/user-attachments/assets/f0f2dc6b-5577-49a2-ac7b-5826bdfe909a" />
+
+<img width="1414" height="504" alt="image" src="https://github.com/user-attachments/assets/0ec6937d-d58b-4573-a5ff-02ae50e400b9" />
 
 **Result**
- This experiment is executed successfully
+
+This experiment is executed successfully
 
 
